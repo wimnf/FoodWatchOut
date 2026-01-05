@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Solid white background -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Rounded corners (8dp for stat cards) -->
+    <corners android:radius="8dp" />
+
+    <!-- Shadow/elevation effect (optional) -->
+    <padding
+        android:left="0dp"
+        android:top="1dp"
+        android:right="0dp"
+        android:bottom="1dp" />
+
+</shape>
